@@ -1,0 +1,8 @@
+<component name="ArtifactManager">
+  <artifact type="war" name="spring-jba:war">
+    <output-path>$PROJECT_DIR$/target</output-path>
+    <root id="archive" name="spring-jba.war">
+      <element id="artifact" artifact-name="spring-jba:war exploded" />
+    </root>
+  </artifact>
+</component>
